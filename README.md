@@ -10,4 +10,4 @@ Excel | SQL | Power BI | Python | R | Tableau | Machine Learning
  - 📊 **Data visualization:** Matplotlib, Seaborn, Plotly, Bokeh, GGPlot
 
 # Find Me on web
-💼 [LinkedIn](www.linkedin.com/in/shivam-rai-30): That I use to connect with professionals.
+💼 [LinkedIn](www.linkedin.com/in/shivam-rai-30/): That I use to connect with professionals.
