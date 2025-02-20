@@ -7,7 +7,7 @@
 # Tech Stack
 Excel | SQL | Power BI | Python | R | Tableau | Machine Learning
  - 🔍 **Data analysis:** NumPy, Pandas, Scikit, Tidyverse
- - 📊 **Data visualization:** Matplotlib, Seaborn, Plotly, Bokeh, GGPlot
+ - 📊 **Data visualization:** Matplotlib, Seaborn, Plotly, GGPlot
 
 # Find Me on web
 💼 [LinkedIn](https://www.linkedin.com/in/shivam-rai-30/): That I use to connect with professionals.
